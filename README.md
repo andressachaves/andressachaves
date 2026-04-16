@@ -72,16 +72,6 @@ Também desenvolvo um **chatbot RAG com LangChain e MongoDB Atlas** para melhora
 ---
 
 
-## 🐠 Pesquisa — Lecar/UFF
-
-Atuo como pesquisadora no **Laboratório de Ecologia e Conservação de Recifes da UFF**, aplicando Ciência de Dados para a preservação de ecossistemas recifais:
-
-- 🔊 **Bioacústica Marinha** — análise de sons de ambientes recifais
-- 👁️ **Visão Computacional** — detecção e classificação de espécies (YOLO, CNN)
-- 🧠 **Deep Learning** — modelos preditivos aplicados à ecologia marinha
-- 🤖 **LLMs & RAG** — chatbot para acesso a publicações científicas do laboratório
-
----
 
 ## 📬 Contato
 
