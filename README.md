@@ -66,7 +66,6 @@ Também desenvolvo um **chatbot RAG com LangChain e MongoDB Atlas** para melhora
 |---------|-----------|-------------|
 | [🤖 ChatbotLecar](https://github.com/andressachaves/ChatbotLecar) | Chatbot RAG para busca de artigos científicos do Lecar/UFF | Python, LangChain, MongoDB, OpenAI |
 | [🏥 MedClin — BD Relacional](https://github.com/andressachaves/PROJETO-DE-DESENVOLVIMENTO-DE-SISTEMA-DE-BANCO-DE-DADOS-RELACIONAL-) | Sistema de gestão para clínicas médicas | SQL |
-| [☁️ Previsão de Estoque AWS](https://github.com/andressachaves/lab-aws-sagemaker-canvas-estoque) | ML no-code para previsão inteligente de estoque | AWS SageMaker Canvas |
 | [🏗️ Infra PUC](https://github.com/andressachaves/puc_infra) | Infraestrutura como código com Docker | Docker, IaC |
 
 ---
