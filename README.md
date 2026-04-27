@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Andressa Chaves! 👋</h1>
 
 <p align="center">
-  <em>Analista de Dados · Pesquisadora em IA & Bioacústica Marinha · Banco de Dados</em>
+  <em>Analista de Dados </em>
 </p>
 
 <p align="center">
