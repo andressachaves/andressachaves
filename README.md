@@ -48,7 +48,15 @@ Também desenvolvo um **chatbot RAG com LangChain e MongoDB Atlas** para melhora
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+**Web & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 **Cloud & DevOps**
 
@@ -65,7 +73,7 @@ Também desenvolvo um **chatbot RAG com LangChain e MongoDB Atlas** para melhora
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [🤖 ChatbotLecar](https://github.com/andressachaves/ChatbotLecar) | Chatbot RAG para busca de artigos científicos do Lecar/UFF | Python, LangChain, MongoDB, OpenAI |
-| [🏥 MedClin — BD Relacional](https://github.com/andressachaves/PROJETO-DE-DESENVOLVIMENTO-DE-SISTEMA-DE-BANCO-DE-DADOS-RELACIONAL-) | Sistema de gestão para clínicas médicas | SQL |
+| [💬 Análise de Sentimentos](https://github.com/andressachaves/analise-sentimentos) | API REST para análise de sentimentos com deploy em produção | Python, Hugging Face, FastAPI, Streamlit, Render |
 | [🏗️ Infra PUC](https://github.com/andressachaves/puc_infra) | Infraestrutura como código com Docker | Docker, IaC |
 
 ---
